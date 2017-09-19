@@ -10,3 +10,4 @@
 
 很多代码是参考一下：
 Reference:[Leet code Solution](https://github.com/soulmachine/leetcode)
+只是学习使用…… just learning
